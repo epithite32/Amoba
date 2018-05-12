@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1520450378 source:c:\users\epithite32\desktop\masodik felev\prog 2\graphicsproject\main.cpp
+	"graphics.hpp"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1430018866 c:\users\epithite32\desktop\masodik felev\prog 2\graphicsproject\include\graphics.hpp
+	<string>
+
+1523836448 source:c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\main.cpp
+	"graphics.hpp"
+	"Widget.hpp"
+	"Button.hpp"
+	"Counter.hpp"
+	"Choice.hpp"
+	<vector>
+
+1430022466 c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\include\graphics.hpp
+	<string>
+
+1523833365 c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\widget.hpp
+	"string"
+	"iostream"
+	"graphics.hpp"
+
+1523835941 c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\button.hpp
+	"graphics.hpp"
+
+1523836515 source:c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\button.cpp
+	"Button.hpp"
+	"iostream"
+
+1523836544 source:c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\widget.cpp
+	"Widget.hpp"
+	"Counter.hpp"
+	"graphics.hpp"
+
+1523836487 source:c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\counter.cpp
+	<sstream>
+	<string>
+	<fstream>
+	"Counter.hpp"
+	"Button.hpp"
+
+1523833365 c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\counter.hpp
+	"Widget.hpp"
+	"Button.hpp"
+	"graphics.hpp"
+
+1523103689 source:c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\list.cpp
+
+1523836487 source:c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\choice.cpp
+	<sstream>
+	<string>
+	<fstream>
+	"Choice.hpp"
+	"Button.hpp"
+
+1523836415 c:\users\epithite32\desktop\masodik felev\prog 2\beadando2\choice.hpp
+	"Widget.hpp"
+	"Button.hpp"
+	"graphics.hpp"
+	<vector>
+
+1524671977 source:c:\users\epithite32\desktop\masodik felev\prog 2\menu3\button.cpp
+	"Button.hpp"
+	"iostream"
+
+1523835941 c:\users\epithite32\desktop\masodik felev\prog 2\menu3\button.hpp
+	"graphics.hpp"
+
+1430022466 c:\users\epithite32\desktop\masodik felev\prog 2\menu3\include\graphics.hpp
+	<string>
+
+1525696213 source:c:\users\epithite32\desktop\masodik felev\prog 2\menu3\choice.cpp
+	<sstream>
+	<string>
+	<fstream>
+	"Choice.hpp"
+	"Button.hpp"
+
+1525542764 c:\users\epithite32\desktop\masodik felev\prog 2\menu3\choice.hpp
+	"Widget.hpp"
+	"Button.hpp"
+	"graphics.hpp"
+	<vector>
+
+1524666348 c:\users\epithite32\desktop\masodik felev\prog 2\menu3\widget.hpp
+	"string"
+	"iostream"
+	"graphics.hpp"
+
+1523836487 source:c:\users\epithite32\desktop\masodik felev\prog 2\menu3\counter.cpp
+	<sstream>
+	<string>
+	<fstream>
+	"Counter.hpp"
+	"Button.hpp"
+
+1523833365 c:\users\epithite32\desktop\masodik felev\prog 2\menu3\counter.hpp
+	"Widget.hpp"
+	"Button.hpp"
+	"graphics.hpp"
+
+1525696262 source:c:\users\epithite32\desktop\masodik felev\prog 2\menu3\main.cpp
+	"graphics.hpp"
+	"Widget.hpp"
+	"Button.hpp"
+	"Counter.hpp"
+	"texteditor.hpp"
+	"Choice.hpp"
+	<vector>
+
+1524669850 source:c:\users\epithite32\desktop\masodik felev\prog 2\menu3\texteditor.cpp
+	"texteditor.hpp"
+	<string>
+
+1524908699 c:\users\epithite32\desktop\masodik felev\prog 2\menu3\texteditor.hpp
+	<string>
+	<vector>
+	"Widget.hpp"
+	"graphics.hpp"
+
+1524669594 source:c:\users\epithite32\desktop\masodik felev\prog 2\menu3\widget.cpp
+	"Widget.hpp"
+	"Counter.hpp"
+	"graphics.hpp"
+
+1524671977 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\button.cpp
+	"Button.hpp"
+	"iostream"
+
+1523835941 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\button.hpp
+	"graphics.hpp"
+
+1430022466 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\include\graphics.hpp
+	<string>
+
+1525696213 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\choice.cpp
+	<sstream>
+	<string>
+	<fstream>
+	"Choice.hpp"
+	"Button.hpp"
+
+1525542764 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\choice.hpp
+	"Widget.hpp"
+	"Button.hpp"
+	"graphics.hpp"
+	<vector>
+
+1524666348 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\widget.hpp
+	"string"
+	"iostream"
+	"graphics.hpp"
+
+1523836487 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\counter.cpp
+	<sstream>
+	<string>
+	<fstream>
+	"Counter.hpp"
+	"Button.hpp"
+
+1523833365 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\counter.hpp
+	"Widget.hpp"
+	"Button.hpp"
+	"graphics.hpp"
+
+1526130831 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\main.cpp
+	"Widget.hpp"
+	"Button.hpp"
+	"Counter.hpp"
+	"texteditor.hpp"
+	"Choice.hpp"
+	"JatekMester.hpp"
+	<vector>
+
+1524908699 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\texteditor.hpp
+	<string>
+	<vector>
+	"Widget.hpp"
+	"graphics.hpp"
+
+1524669850 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\texteditor.cpp
+	"texteditor.hpp"
+	<string>
+
+1524669594 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\widget.cpp
+	"Widget.hpp"
+	"Counter.hpp"
+	"graphics.hpp"
+
+1526135815 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\fieldbutton.cpp
+	"FieldButton.hpp"
+	"iostream"
+
+1526126012 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\fieldbutton.hpp
+	"Button.hpp"
+	"Widget.hpp"
+	"graphics.hpp"
+
+1526141753 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\jatekmester.cpp
+	<sstream>
+	<string>
+	<fstream>
+	<vector>
+	"FieldButton.hpp"
+	"graphics.hpp"
+	"JatekMester.hpp"
+
+1526136824 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\jatekmester.hpp
+	"Widget.hpp"
+	"FieldButton.hpp"
+	"graphics.hpp"
+

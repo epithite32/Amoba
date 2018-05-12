@@ -1,0 +1,7 @@
+#ifndef PUBLICBUTTON_HPP_INCLUDED
+#define PUBLICBUTTON_HPP_INCLUDED
+
+#include widgets.hpp
+
+
+#endif // PUBLICBUTTON_HPP_INCLUDED
