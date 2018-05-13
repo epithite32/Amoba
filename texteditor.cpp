@@ -11,10 +11,12 @@ TextEditor::TextEditor(int _x, int _y, int _w, int _h, string _akt):Widget(_x,_y
     w = _w;
     h = _h;
     akt=_akt;
+
     //kivalaszt=false;
 }
 void TextEditor::draw(event ev)
 {
+    //cout<<"mukodik";
     if (active)
     {
         gout << color(255,255,255);

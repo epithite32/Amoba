@@ -168,7 +168,7 @@
 	"Button.hpp"
 	"graphics.hpp"
 
-1526130831 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\main.cpp
+1526246261 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\main.cpp
 	"Widget.hpp"
 	"Button.hpp"
 	"Counter.hpp"
@@ -183,7 +183,7 @@
 	"Widget.hpp"
 	"graphics.hpp"
 
-1524669850 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\texteditor.cpp
+1526230929 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\texteditor.cpp
 	"texteditor.hpp"
 	<string>
 
@@ -192,25 +192,26 @@
 	"Counter.hpp"
 	"graphics.hpp"
 
-1526135815 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\fieldbutton.cpp
+1526255810 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\fieldbutton.cpp
 	"FieldButton.hpp"
 	"iostream"
 
-1526126012 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\fieldbutton.hpp
+1526153194 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\fieldbutton.hpp
 	"Button.hpp"
 	"Widget.hpp"
 	"graphics.hpp"
 
-1526141753 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\jatekmester.cpp
+1526255921 source:c:\users\epithite32\desktop\masodik felev\prog 2\amoba\jatekmester.cpp
 	<sstream>
 	<string>
 	<fstream>
 	<vector>
 	"FieldButton.hpp"
+	"texteditor.hpp"
 	"graphics.hpp"
 	"JatekMester.hpp"
 
-1526136824 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\jatekmester.hpp
+1526255870 c:\users\epithite32\desktop\masodik felev\prog 2\amoba\jatekmester.hpp
 	"Widget.hpp"
 	"FieldButton.hpp"
 	"graphics.hpp"

@@ -11,7 +11,7 @@ class FieldButton : public Widget{
 private:
     int x, y;
     Button* b;
-    int user_id;
+    int user_id=-1;
     int round;
     bool kattinthato=false;
     //string title;

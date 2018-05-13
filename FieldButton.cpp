@@ -8,13 +8,13 @@ FieldButton::FieldButton(int _x, int _y)
         x=_x;
         y=_y;
         //title=_title;
-        user_id=-1;
+        //user_id=-1;
         //round=0;
     }
 
 void FieldButton::draw() {
     gout << move_to(x+10, y+10) << color(150,150,150)<<box(15,15);
-    gout << move_to(x + 15, y + 22) << color(220, 220, 220);
+    gout << move_to(x + 13, y + 22) << color(220, 220, 220);
 
     if(user_id==-1){
     gout<<text(" ");
